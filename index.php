@@ -4,7 +4,7 @@
     </head>
 <body>
 <?php
-    echo '<h1>Bonjour les gens!</h1><br>';
+    echo '<h1>Bonjour les gens!</h1>';
 ?>
 </body>
 </html>>
